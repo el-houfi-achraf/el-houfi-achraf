@@ -108,7 +108,6 @@ Enterprise-Grade Student Management System
 ### 🎯 Expertise Technique
 
 #### Backend Development
-- Architecture Microservices
 - API RESTful
 - Sécurité & Authentication
 - Optimisation des performances
@@ -121,13 +120,6 @@ Enterprise-Grade Student Management System
 - Progressive Web Apps (PWA)
 - UI/UX Design Patterns
 
-#### DevOps & Cloud
-- Conteneurisation Docker
-- CI/CD Pipelines
-- Gestion de versions Git
-- Cloud Services
-- Monitoring & Logging
-
 #### Database & Architecture
 - Conception de schémas
 - Optimisation des requêtes
@@ -137,22 +129,11 @@ Enterprise-Grade Student Management System
 
 ---
 
-### 📚 Formation Continue
-
-- 🎓 Architecture Microservices
-- 🔒 Cybersécurité Avancée
-- 📊 Intelligence Artificielle & ML
-- 🚀 Cloud Computing
-- 📱 Progressive Web Apps
-
----
-
-### 🌱 Projets en Cours
+### 🌱 Projets
 
 - 🤖 Système de reconnaissance faciale avancé
 - 🔐 Plateforme IAM nouvelle génération
 - 📊 Dashboard analytics en temps réel
-- 🎯 Application mobile cross-platform
 
 ---
 
