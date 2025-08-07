@@ -2,7 +2,7 @@
   
   # 👨‍💻 ACHRAF EL HOUFI
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&random=false&width=435&lines=Student+Developer;RO+Enthusiast;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&random=false&width=435&lines=Student+Developer;Data+engineering+Enthusiast;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://el-houfi-achraf.github.io/mypf/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-el-houfi-136b4230b/)
