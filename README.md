@@ -25,26 +25,6 @@
 
 ### 👨‍💻 **Achraf El Houfi** | Future Software Engineer
 
-<table>
-<tr>
-<td align="center" width="40%">
-
-<img src="https://github.com/el-houfi-achraf/el-houfi-achraf/blob/main/assets/profile.jpg" alt="Achraf El Houfi" width="200" style="border-radius: 50%; border: 4px solid #00D9FF;">
-
-**🚀 Ready to make an impact!**
-
-</td>
-<td align="center" width="60%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
-
-**💡 Passionate about building innovative solutions**  
-**🌟 Always learning, always growing**
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <table align="center">
