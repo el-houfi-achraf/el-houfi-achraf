@@ -19,45 +19,62 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-```typescript
-class Developer {
-  name: string = "Achraf El Houfi";
-  location: string = "Marrakech, Morocco 🇲🇦";
-  education: string = "5th Year Software Engineering Student";
-  specialization: string = "MIAGE - Computer Science & Networks";
-  status: string = "Looking for 6-month internship starting Feb 2026";
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
 
-  getCurrentFocus(): string[] {
-    return [
-      "Building scalable web applications",
-      "Exploring AI/ML technologies",
-      "Data engineering solutions",
-      "DevOps & Cloud computing",
-    ];
-  }
+### 👨‍💻 **Achraf El Houfi** | Future Software Engineer
 
-  getGoals2026(): string[] {
-    return [
-      "Complete Software Engineering degree",
-      "Master cloud architecture patterns",
-      "Contribute to open-source projects",
-      "Build impactful SaaS solutions",
-    ];
-  }
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600">
 
-  getPersonalInfo(): Record<string, string> {
-    return {
-      "🎓 School": "EMSI - Marrakech",
-      "💼 Experience": "3+ years in development",
-      "🌐 Languages": "Arabic, French, English",
-      "🎮 Hobbies": "Gaming, Sports, Tech exploration",
-      "📱 Contact": "+212 611-945026",
-    };
-  }
-}
-```
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🚀 **WHO AM I?**
+
+🎓 **5th Year Software Engineering Student**  
+🏫 **EMSI - Marrakech, Morocco** 🇲🇦  
+🎯 **Specialization**: MIAGE  
+📚 **Focus**: Computer Science & Networks
+
+🔍 **Looking for 6-month internship**  
+📅 **Starting**: February 2026
+
+</td>
+<td align="center" width="50%">
+
+### 💡 **WHAT I DO?**
+
+🌐 **Building scalable web applications**  
+🤖 **Exploring AI/ML technologies**  
+📊 **Data engineering solutions**  
+☁️ **DevOps & Cloud computing**
+
+💼 **3+ years development experience**  
+🌍 **Languages**: Arabic, French, English
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 **2026 GOALS**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+🎓 **Complete Software Engineering degree** | 🏗️ **Master cloud architecture patterns** | 🌟 **Contribute to open-source projects** | 🚀 **Build impactful SaaS solutions**
+
+---
+
+### � **BEYOND CODE**
+
+� **Gaming Enthusiast** • �‍♂️ **Sports Lover** • 🔍 **Tech Explorer** • 🌍 **Marrakech Based**
+
+</div>
 
 ---
 
