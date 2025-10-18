@@ -38,9 +38,6 @@
 🎯 **Specialization**: MIAGE  
 📚 **Focus**: Computer Science & Networks
 
-🔍 **Looking for 6-month internship**  
-📅 **Starting**: February 2026
-
 </td>
 <td align="center" width="50%">
 
