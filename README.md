@@ -25,9 +25,9 @@
 class Developer {
   name: string = "Achraf El Houfi";
   location: string = "Marrakech, Morocco 🇲🇦";
-  education: string = "Software Engineering Student";
+  education: string = "5th Year Software Engineering Student";
   specialization: string = "MIAGE - Computer Science & Networks";
- 
+  status: string = "Looking for 6-month internship starting Feb 2026";
 
   getCurrentFocus(): string[] {
     return [
@@ -45,6 +45,16 @@ class Developer {
       "Contribute to open-source projects",
       "Build impactful SaaS solutions",
     ];
+  }
+
+  getPersonalInfo(): Record<string, string> {
+    return {
+      "🎓 School": "EMSI - Marrakech",
+      "💼 Experience": "3+ years in development",
+      "🌐 Languages": "Arabic, French, English",
+      "🎮 Hobbies": "Gaming, Sports, Tech exploration",
+      "📱 Contact": "+212 611-945026",
+    };
   }
 }
 ```
