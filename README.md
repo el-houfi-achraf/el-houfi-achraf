@@ -135,43 +135,78 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📋 **AtlasDocs SaaS Platform** - _Commercial Document Management_
 
-### 🌟 **VG_IT IAM** - _Identity & Access Management Platform_
+> **Le Gestionnaire Internship (July-August 2025)**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+**🎯 Project Overview:**
 
-**Features:** 🔐 RBAC | 🔑 SSO | 📊 Analytics | 💬 Communication | 📈 Reporting  
-**Tech:** `Django` `Spring Boot` `React` `MySQL` `Docker`
+- 📊 Commercial document management and collaboration platform
+- 🔐 JWT authentication with email integration for sharing links and notifications
+- � 85% improvement in document management efficiency through automation
+- ☁️ Google Cloud Storage integration for scalable file management
 
----
-
-### 🤖 **FaceSmart** - _AI-Powered Employee Management_
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
-**Features:** 👤 Facial Recognition | 📊 Analytics | ⏱️ Attendance | 🤖 ML Tracking | 📱 Mobile UI  
-**Tech:** `Python` `OpenCV` `TensorFlow` `React` `MongoDB`
+**🛠️ Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud Storage` `Git`
 
 ---
 
-### 🎨 **UMLForge** - _Modern UML Modeling Tool_
+### 🎫 **VGT Ticket Management System** - _Internal IT Solution_
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+> **Vigon Systems Internship (July 2024)**
 
-**Features:** 📝 Interactive Diagrams | 🔄 Code Generation | 🤖 AI-Assisted | 🔄 Version Control | 📦 Cloud Sync  
-**Tech:** `React` `Material UI` `Google Gemini AI` `Node.js`
+**🎯 Project Overview:**
+
+- 🏗️ Internal solution for IT ticket management with MVC/MVT architecture
+- � Real-time chat integration for improved communication
+- � Automated PDF report generation
+- 📈 70% optimization in ticket tracking efficiency
+
+**🛠️ Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
 
 ---
 
-### 📚 **Student Management Dashboard** - _Enterprise-Grade System_
+### 📊 **Insurance Analytics Dashboard** - _Data Visualization Platform_
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+> **Allianz Imasnaoune Internship (July 2022)**
 
-**Features:** 🔒 Advanced Auth | 📚 Academic Management | 📊 Analytics | 🔄 Grade Processing | 📱 PWA  
-**Tech:** `PHP` `MySQL` `JavaScript` `Bootstrap` `jQuery`
+**🎯 Project Overview:**
 
-</div>
+- 📈 Dynamic insurance contract data visualization
+- � Interactive dashboard with advanced data analysis workflows
+- � Responsive web application for data insights
+- � Comprehensive analytics for insurance contract management
+
+**🛠️ Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
+
+---
+
+### 🏥 **Pharmacy Locator Web App** - _Academic Project_
+
+> **EMSI Academic Project**
+
+**🎯 Project Overview:**
+
+- 🗺️ Web application for locating pharmacies across Morocco
+- 📊 Dynamic charts integration for decision-making support
+- 🏢 Data collection from 3 internal departments
+- 📈 Enhanced decision-making capabilities for agency managers
+
+**🛠️ Tech Stack:** `Spring Boot` `Angular`
+
+---
+
+### 👤 **Employee Facial Recognition System** - _AI-Powered Management_
+
+> **EMSI Academic Project**
+
+**🎯 Project Overview:**
+
+- 🤖 Employee management system with facial recognition
+- � Integrated chat and video call system
+- � 60% improvement in communication reactivity
+- 🏥 Enhanced patient-doctor communication features
+
+**🛠️ Tech Stack:** `Python` `OpenCV` `TensorFlow`
 
 ---
 
