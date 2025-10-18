@@ -388,7 +388,13 @@ graph TD
 
 ---
 
-<img src="https://github.com/el-houfi-achraf/el-houfi-achraf/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+</div>
 
 _"Code is like humor. When you have to explain it, it's bad." - Cory House_
 
