@@ -68,9 +68,9 @@
 
 ---
 
-### � **BEYOND CODE**
+### **BEYOND CODE**
 
-� **Gaming Enthusiast** • �‍♂️ **Sports Lover** • 🔍 **Tech Explorer** • 🌍 **Marrakech Based**
+**Gaming Enthusiast** • ♂️ **Sports Lover** • 🔍 **Tech Explorer** • 🌍 **Marrakech Based**
 
 </div>
 
