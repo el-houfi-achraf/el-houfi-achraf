@@ -305,29 +305,6 @@
 
 ---
 
-## 🌟 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎯 Current Goals] --> B[🚀 6-Month Internship]
-    A --> C[🤖 AI/ML Projects]
-    A --> D[☁️ Cloud Architecture]
-    A --> E[📊 Data Engineering]
-
-    B --> F[Feb 2026 Start]
-    C --> G[Computer Vision]
-    C --> H[NLP Applications]
-    D --> I[AWS/GCP/Azure]
-    E --> J[Big Data Processing]
-    E --> K[ETL Pipelines]
-```
-
-</div>
-
----
-
 ## 🎮 Fun Facts
 
 <img align="right" alt="Fun" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
@@ -338,20 +315,6 @@ graph TD
 - 🔍 Always exploring new technologies and frameworks
 - 📱 Mobile: **+212 611-945026**
 - ⚡ Fun fact: I love combining AI with real-world applications!
-
----
-
-## 📈 2024-2026 Roadmap
-
-<div align="center">
-
-| Year     | Goals                                                                               | Status          |
-| -------- | ----------------------------------------------------------------------------------- | --------------- |
-| **2024** | ✅ Complete internships<br/>✅ Build portfolio projects<br/>✅ Learn Docker & Cloud | **Completed**   |
-| **2025** | 🔄 Advanced AI/ML projects<br/>🔄 Contribute to open source<br/>🔄 Master DevOps    | **In Progress** |
-| **2026** | 🎯 Graduate as Software Engineer<br/>🎯 Land dream job<br/>🎯 Launch SaaS product   | **Planned**     |
-
-</div>
 
 ---
 
