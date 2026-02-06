@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi there, I'm ACHRAF EL HOUFI!
+# Hi there, I'm ACHRAF EL HOUFI!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%8E%93;Data+Engineering+Enthusiast+%F0%9F%93%8A;AI+%26+ML+Passionate+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -260,9 +260,6 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-houfi-achraf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-houfi-achraf&layout=compact&langs_count=8&theme=tokyonight"/>
-
 </div>
 
 <div align="center">
@@ -292,14 +289,6 @@
 - 🐧 **The Unix Workbench**
 - ☁️ **Introduction to Cloud Computing**
 - 🤖 **Introduction to Machine Learning with Python**
-
-### 🎓 Education
-
-**École Marocaine des Sciences de l'Ingénieur (EMSI - Marrakech)**
-
-- 🎯 **Engineering Cycle:** Computer Science & Networks (2023 - Present)
-- 📚 **Preparatory Cycle:** Mathematics & Physics (2021 - 2023)
-- 🌟 **Specialization:** MIAGE (Methods and Computer Tools Applied to Management)
 
 </div>
 
