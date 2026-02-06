@@ -17,13 +17,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
 
-### 👨‍💻 **Achraf El Houfi** | Future Software Engineer
+### **Achraf El Houfi** | Future Software Engineer
 
 </div>
 
@@ -31,25 +31,25 @@
 <tr>
 <td align="center" width="50%">
 
-### 🚀 **WHO AM I?**
+###  **WHO AM I?**
 
-🎓 **5th Year Software Engineering Student**  
-🏫 **EMSI - Marrakech, Morocco** 🇲🇦  
-🎯 **Specialization**: MIAGE  
-📚 **Focus**: Computer Science & Networks
+**5th Year Software Engineering Student**  
+**EMSI - Marrakech, Morocco** 🇲🇦  
+**Specialization**: MIAGE  
+**Focus**: Computer Science & Networks
 
 </td>
 <td align="center" width="50%">
 
-### 💡 **WHAT I DO?**
+###  **WHAT I DO?**
 
-🌐 **Building scalable web applications**  
-🤖 **Exploring AI/ML technologies**  
-📊 **Data engineering solutions**  
-☁️ **DevOps & Cloud computing**
+**Building scalable web applications**  
+ **Exploring AI/ML technologies**  
+ **Data engineering solutions**  
+ **DevOps & Cloud computing**
 
-💼 **3+ years development experience**  
-🌍 **Languages**: Arabic, French, English
+ **3+ years development experience**  
+ **Languages**: Arabic, French, English
 
 </td>
 </tr>
@@ -57,153 +57,153 @@
 
 <div align="center">
 
-### 🎯 **2026 GOALS**
+###  **2026 GOALS**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-🎓 **Complete Software Engineering degree** | 🏗️ **Master cloud architecture patterns** | 🌟 **Contribute to open-source projects** | 🚀 **Build impactful SaaS solutions**
+**Complete Software Engineering degree** |  **Master cloud architecture patterns** |  **Contribute to open-source projects** |  **Build impactful SaaS solutions**
 
 ---
 
 ### **BEYOND CODE**
 
-**Gaming Enthusiast** • ♂️ **Sports Lover** • 🔍 **Tech Explorer** • 🌍 **Marrakech Based**
+**Gaming Enthusiast** •  **Tech Explorer** 
 
 </div>
 
 ---
 
-## 🏆 Professional Experience
+##  Professional Experience
 
 <details>
-<summary><b>🔥 Full-Stack Developer Intern @ Le Gestionnaire (July-August 2025)</b></summary>
+<summary><b> Full-Stack Developer Intern @ Le Gestionnaire (July-August 2025)</b></summary>
 
-### 📋 AtlasDocs SaaS Platform
+###  AtlasDocs SaaS Platform
 
 > _Commercial document management and collaboration platform_
 
-**🎯 Key Achievements:**
+** Key Achievements:**
 
-- 🚀 Improved document management efficiency by **85%** through automation
-- 🔐 Implemented JWT authentication & email integration
-- 📊 Built comprehensive data visualization dashboard
-- ☁️ Integrated Google Cloud Storage for scalable file management
+-  Improved document management efficiency by **85%** through automation
+-  Implemented JWT authentication & email integration
+-  Built comprehensive data visualization dashboard
+-  Integrated Google Cloud Storage for scalable file management
 
-**🛠️ Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud` `Git`
+** Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud` `Git`
 
 </details>
 
 <details>
-<summary><b>⚡ Back-End Developer Intern @ Vigon Systems (July 2024)</b></summary>
+<summary><b> Back-End Developer Intern @ Vigon Systems (July 2024)</b></summary>
 
-### 🎫 VGT Internal Ticket Management
+###  VGT Internal Ticket Management
 
 > _Internal IT ticket management solution_
 
-**🎯 Key Achievements:**
+** Key Achievements:**
 
-- 📈 Optimized ticket tracking efficiency by **70%**
-- 💬 Integrated real-time chat functionality
-- 📄 Automated PDF report generation
-- 🏗️ Designed robust MVC/MVT architecture
+-  Optimized ticket tracking efficiency by **70%**
+-  Integrated real-time chat functionality
+-  Automated PDF report generation
+-  Designed robust MVC/MVT architecture
 
-**🛠️ Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
+** Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
 
 </details>
 
 <details>
-<summary><b>📊 IT Developer Intern @ Allianz Imasnaoune (July 2022)</b></summary>
+<summary><b> IT Developer Intern @ Allianz Imasnaoune (July 2022)</b></summary>
 
-### 📈 Insurance Analytics Dashboard
+###  Insurance Analytics Dashboard
 
 > _Dynamic insurance contract data visualization_
 
-**🎯 Key Achievements:**
+** Key Achievements:**
 
-- 📊 Created interactive data visualization dashboard
-- 🔍 Implemented advanced data analysis workflows
-- 📱 Built responsive web application interface
+-  Created interactive data visualization dashboard
+-  Implemented advanced data analysis workflows
+-  Built responsive web application interface
 
-**🛠️ Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
+** Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📋 **AtlasDocs SaaS Platform** - _Commercial Document Management_
+###  **AtlasDocs SaaS Platform** - _Commercial Document Management_
 
 > **Le Gestionnaire Internship (July-August 2025)**
 
-**🎯 Project Overview:**
+** Project Overview:**
 
-- 📊 Commercial document management and collaboration platform
-- 🔐 JWT authentication with email integration for sharing links and notifications
-- � 85% improvement in document management efficiency through automation
-- ☁️ Google Cloud Storage integration for scalable file management
+-  Commercial document management and collaboration platform
+-  JWT authentication with email integration for sharing links and notifications
+-  85% improvement in document management efficiency through automation
+-  Google Cloud Storage integration for scalable file management
 
-**🛠️ Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud Storage` `Git`
+** Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud Storage` `Git`
 
 ---
 
-### 🎫 **VGT Ticket Management System** - _Internal IT Solution_
+###  **VGT Ticket Management System** - _Internal IT Solution_
 
 > **Vigon Systems Internship (July 2024)**
 
-**🎯 Project Overview:**
+** Project Overview:**
 
-- 🏗️ Internal solution for IT ticket management with MVC/MVT architecture
-- � Real-time chat integration for improved communication
-- � Automated PDF report generation
-- 📈 70% optimization in ticket tracking efficiency
+-  Internal solution for IT ticket management with MVC/MVT architecture
+-  Real-time chat integration for improved communication
+-  Automated PDF report generation
+-  70% optimization in ticket tracking efficiency
 
-**🛠️ Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
+** Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
 
 ---
 
-### 📊 **Insurance Analytics Dashboard** - _Data Visualization Platform_
+### **Insurance Analytics Dashboard** - _Data Visualization Platform_
 
 > **Allianz Imasnaoune Internship (July 2022)**
 
-**🎯 Project Overview:**
+** Project Overview:**
 
-- 📈 Dynamic insurance contract data visualization
-- � Interactive dashboard with advanced data analysis workflows
-- � Responsive web application for data insights
-- � Comprehensive analytics for insurance contract management
+-  Dynamic insurance contract data visualization
+-  Interactive dashboard with advanced data analysis workflows
+-  Responsive web application for data insights
+-  Comprehensive analytics for insurance contract management
 
-**🛠️ Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
-
----
-
-### 🏥 **Pharmacy Locator Web App** - _Academic Project_
-
-> **EMSI Academic Project**
-
-**🎯 Project Overview:**
-
-- 🗺️ Web application for locating pharmacies across Morocco
-- 📊 Dynamic charts integration for decision-making support
-- 🏢 Data collection from 3 internal departments
-- 📈 Enhanced decision-making capabilities for agency managers
-
-**🛠️ Tech Stack:** `Spring Boot` `Angular`
+** Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
 
 ---
 
-### 👤 **Employee Facial Recognition System** - _AI-Powered Management_
+###  **Pharmacy Locator Web App** - _Academic Project_
 
 > **EMSI Academic Project**
 
-**🎯 Project Overview:**
+** Project Overview:**
 
-- 🤖 Employee management system with facial recognition
-- � Integrated chat and video call system
-- � 60% improvement in communication reactivity
-- 🏥 Enhanced patient-doctor communication features
+-  Web application for locating pharmacies across Morocco
+-  Dynamic charts integration for decision-making support
+-  Data collection from 3 internal departments
+-  Enhanced decision-making capabilities for agency managers
 
-**🛠️ Tech Stack:** `Python` `OpenCV` `TensorFlow`
+** Tech Stack:** `Spring Boot` `Angular`
+
+---
+
+###  **Employee Facial Recognition System** - _AI-Powered Management_
+
+> **EMSI Academic Project**
+
+** Project Overview:**
+
+-  Employee management system with facial recognition
+-  Integrated chat and video call system
+-  60% improvement in communication reactivity
+-  Enhanced patient-doctor communication features
+
+** Tech Stack:** `Python` `OpenCV` `TensorFlow`
 
 ---
 
@@ -276,48 +276,48 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 <div align="center">
 
-### 📜 Coursera Certifications
+###  Coursera Certifications
 
-- 🏗️ **Software Design and Project Management**
-- ☁️ **Virtual Networks in Azure**
-- 🐳 **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
-- ⚡ **AWS Cloud Technical Essentials**
-- 🐧 **The Unix Workbench**
-- ☁️ **Introduction to Cloud Computing**
-- 🤖 **Introduction to Machine Learning with Python**
+-  **Software Design and Project Management**
+-  **Virtual Networks in Azure**
+-  **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
+-  **AWS Cloud Technical Essentials**
+-  **The Unix Workbench**
+-  **Introduction to Cloud Computing**
+-  **Introduction to Machine Learning with Python**
 
 </div>
 
 ---
 
-## 🎮 Fun Facts
+##  Fun Facts
 
 <img align="right" alt="Fun" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-- 🎯 I speak **3 languages**: Arabic (native), French (fluent), English (intermediate)
-- 🎮 Gaming enthusiast & sports lover
-- 🌍 Based in beautiful **Marrakech, Morocco**
-- 🔍 Always exploring new technologies and frameworks
-- 📱 Mobile: **+212 611-945026**
-- ⚡ Fun fact: I love combining AI with real-world applications!
+-  I speak **3 languages**: Arabic (native), French (fluent), English (intermediate)
+-  Gaming enthusiast & sports lover
+-  Based in beautiful **Marrakech, Morocco**
+-  Always exploring new technologies and frameworks
+-  Mobile: **+212 611-945026**
+-  Fun fact: I love combining AI with real-world applications!
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
-### 💬 Open for collaboration on:
+###  Open for collaboration on:
 
-- 🚀 **Full-Stack Web Applications**
-- 🤖 **AI/ML Projects**
-- ☁️ **Cloud-Native Applications**
+-  **Full-Stack Web Applications**
+-  **AI/ML Projects**
+-  **Cloud-Native Applications**
 
-### 📫 Reach out to me:
+###  Reach out to me:
 
 [![Email](https://img.shields.io/badge/📧_elhoufiashraf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhoufiashraf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-el-houfi-136b4230b/)
@@ -330,9 +330,9 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
-**If you like my work, consider giving it a ⭐!**
+**If you like my work, consider giving it a !**
 
 ---
 
