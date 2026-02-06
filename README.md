@@ -2,7 +2,7 @@
 
 # Hi there, I'm ACHRAF EL HOUFI!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Future+Software+Engineer+%F0%9F%8E%93;Data+Engineering+Enthusiast+%F0%9F%93%8A;AI+%26+ML+Passionate+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Future+Software+Engineer;Data+Engineering+Enthusiast;AI+%26+ML+Passionate;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
