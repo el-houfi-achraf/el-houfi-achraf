@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
 
-### **Achraf El Houfi** | Future Software Engineer
+### **Achraf El Houfi** | Software Engineer
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ###  **WHO AM I?**
 
-**5th Year Software Engineering Student**  
+**Software Engineer**  
 **EMSI - Marrakech, Morocco** 🇲🇦  
 **Specialization**: MIAGE  
 **Focus**: Computer Science & Networks
@@ -56,14 +56,6 @@
 </table>
 
 <div align="center">
-
-###  **2026 GOALS**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-**Complete Software Engineering degree** |  **Master cloud architecture patterns** |  **Contribute to open-source projects** |  **Build impactful SaaS solutions**
-
----
 
 ### **BEYOND CODE**
 
