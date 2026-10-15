@@ -1,341 +1,274 @@
-<div align="center">
+<!--
+  ACHRAF TV · CH 21 — GitHub profile edition
+  Companion to the portfolio: https://achraf-el-houfi.vercel.app
+  Palette (same as the site): ink #0A0A0F · print #1A1712 · ivory #EFE8DA · amber #FFB000 · REC #E8402C · phosphor #8EF0C6
+  Colour bars (one per skill channel): #D8C63A #3AC8CF #3FB855 #C73FC1 #D23A35
+-->
 
-# Hi there, I'm ACHRAF EL HOUFI!
+<p align="center">
+  <a href="https://achraf-el-houfi.vercel.app/">
+    <img src="https://achraf-el-houfi.vercel.app/opengraph-image?020697ce194d0535" width="100%" alt="ACHRAF TV · CH 21 — Achraf El Houfi, Software Engineer @ Intelcia Tech. Broadcasting live from Marrakech." />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Future+Software+Engineer;Data+Engineering+Enthusiast;AI+%26+ML+Passionate;Always+Learning+%26+Building" alt="Typing SVG" />
+<p align="center">
+  <a href="https://achraf-el-houfi.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2200&pause=1000&color=FFB000&background=0A0A0F&center=true&vCenter=true&width=1200&height=70&lines=CH+21+%C2%B7+NOW+AIRING;SOFTWARE+ENGINEER+%40+INTELCIA+TECH;FULL-STACK+%C2%B7+AI+TOOLS+%C2%B7+3D+WEB;BROADCASTING+LIVE+FROM+MARRAKECH" width="100%" alt="CH 21 · Now airing — Software Engineer @ Intelcia Tech — full-stack · AI tools · 3D web — broadcasting live from Marrakech" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<p align="center">
+  <a href="https://achraf-el-houfi.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH-THE%20TAPES-E8402C?style=for-the-badge&labelColor=0A0A0F" alt="Watch the tapes — portfolio" /></a>
+  <a href="mailto:elhoufiashraf@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-FFB000?style=for-the-badge&labelColor=0A0A0F" alt="Email — elhoufiashraf@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/achraf-el-houfi-136b4230b/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-3646C9?style=for-the-badge&labelColor=0A0A0F" alt="LinkedIn — Achraf El Houfi" /></a>
+  <a href="https://www.instagram.com/ashraf_elhoufi/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-C73FC1?style=for-the-badge&labelColor=0A0A0F" alt="Instagram — @ashraf_elhoufi" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://achraf-el-houfi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-el-houfi-136b4230b/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhoufiashraf@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_+212_611_945026-25D366?style=for-the-badge&logoColor=white)](tel:+212611945026)
+## 📺 Behind the scenes
 
-<img src="https://komarev.com/ghpvc/?username=el-houfi-achraf&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+I'm **Achraf**, a software engineer who got hooked on building the moment I realised software could make people feel something.
 
-</div>
+Today I'm a **Software Engineer at Intelcia Tech**, embedded with the **SFR** client team on the **Hermes** project. I joined as an intern in February 2026 and was hired full-time in August. Before that, internships had me shipping a document-management SaaS on GCP, building internal ticketing tools and turning insurance datasets into dashboards people actually use. I care about the whole stack, from the database query to the last frame of an animation.
 
----
+After hours I build things that live in the browser and shouldn't: a walkable 3D city for every GitHub repository, a WebGPU game about memory, and AI tools that treat users like humans, not metrics.
 
-## About Me
+| 📍 Location | 🔴 Now | 🎓 Programme | 🎯 Focus |
+|:--|:--|:--|:--|
+| Marrakech, Morocco | Software Engineer @ Intelcia Tech | MIAGE — CS & Networks, EMSI Marrakech | Full-stack · AI · 3D web |
 
-<div align="center">
+## 📼 Now showing
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
+<sub>Selected tapes, hand-labelled and rewound. Click a cover to watch the full case study on the portfolio.</sub>
 
-### **Achraf El Houfi** | Software Engineer
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/code-city"><img src="https://achraf-el-houfi.vercel.app/work/code-city/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 01 · Code City — every GitHub repository, drawn as a walkable city" /></a>
+<br /><sub>TAPE 01 · 2026 · 3D · DATA VIZ · AI</sub><br />
+Paste a public repo and walk through it as a 3D city: height is lines of code, rooftop glow is recent activity, hue is language. An AI guide drives the camera while it answers.
+<br /><sub>Next.js · React Three Fiber · Three.js · Tailwind CSS · GitHub API · LLM</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/code-city"><b>▶ Watch the tape</b></a> · <a href="https://code-city-eta.vercel.app/">Live demo ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/eidra"><img src="https://achraf-el-houfi.vercel.app/work/eidra/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 02 · Eidra — Shards of Silence" /></a>
+<br /><sub>TAPE 02 · 2026 · GAME · WEBGPU</sub><br />
+A story-driven action-platformer that runs straight in the browser: Babylon.js 9 on WebGPU, Havok physics, an original soundtrack, gamepad support and three save slots.
+<br /><sub>Babylon.js · WebGPU · Havok · Vite · Web Audio · IndexedDB</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/eidra"><b>▶ Watch the tape</b></a> · <a href="https://eidra-five.vercel.app/">Play it ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/wildfireguard"><img src="https://achraf-el-houfi.vercel.app/work/wildfireguard/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 03 · WildfireGuard — real-time wildfire detection from the sky" /></a>
+<br /><sub>TAPE 03 · 2025 · AI · COMPUTER VISION</sub><br />
+A fine-tuned YOLOv8 flags smoke and flames in satellite and camera imagery; an edge-ready FastAPI service plots each detection on a React map and raises the alert.
+<br /><sub>Python · YOLOv8 · TensorFlow · FastAPI · React</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/wildfireguard"><b>▶ Watch the tape</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/docqa"><img src="https://achraf-el-houfi.vercel.app/work/docqa/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 04 · DocQa — ask your medical documents anything" /></a>
+<br /><sub>TAPE 04 · 2025 · AI · RAG</sub><br />
+Ask medical documents anything in plain language. Every answer is grounded in retrieved passages and comes back with its sources, so people can check it.
+<br /><sub>Spring Boot · Python · RAG · LLM · Vector search</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/docqa"><b>▶ Watch the tape</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/facesmart"><img src="https://achraf-el-houfi.vercel.app/work/facesmart/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 05 · FaceSmart — faces in, identities out, even with a scarf on" /></a>
+<br /><sub>TAPE 05 · 2024 · AI · RECOGNITION</sub><br />
+Real-time webcam enrolment and embedding-based matching that keeps recognising people through glasses, masks, scarves and bad lighting.
+<br /><sub>Python · OpenCV · Deep learning</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/facesmart"><b>▶ Watch the tape</b></a> · <a href="https://github.com/el-houfi-achraf/Projet-python-Facesmart">Source ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/edenmind"><img src="https://achraf-el-houfi.vercel.app/work/edenmind/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 06 · EdenMind — a mental-health companion that treats users like humans, not metrics" /></a>
+<br /><sub>TAPE 06 · 2024 · MOBILE · MENTAL HEALTH</sub><br />
+A companion app for mood tracking and journaling, with gentle reminders designed with clinicians instead of guilt-tripping streaks.
+<br /><sub>Flutter · Dart · Spring Boot</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/edenmind"><b>▶ Watch the tape</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/stevia"><img src="https://achraf-el-houfi.vercel.app/work/stevia/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 07 · STEVIA — diabetes management without the spreadsheet" /></a>
+<br /><sub>TAPE 07 · 2023 · FULL-STACK · HEALTH</sub><br />
+Glucose readings, meals and activity in one timeline, with trend dashboards, secure authentication and clinician-friendly exports.
+<br /><sub>React · Node.js · MongoDB</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/stevia"><b>▶ Watch the tape</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://achraf-el-houfi.vercel.app/work/pharmaco"><img src="https://achraf-el-houfi.vercel.app/work/pharmaco/opengraph-image?84f83acadd00ecff" width="100%" alt="Tape 08 · Pharmaco — find your medicine before you leave the house" /></a>
+<br /><sub>TAPE 08 · 2023 · MOBILE · PHARMACY</sub><br />
+See which pharmacy has your medicine before leaving the house: real-time stock sync across pharmacies, plus medication reminders.
+<br /><sub>Flutter · Dart · Firebase</sub>
+<br /><a href="https://achraf-el-houfi.vercel.app/work/pharmaco"><b>▶ Watch the tape</b></a>
+</td>
+</tr>
+</table>
 
-###  **WHO AM I?**
+<p align="center"><a href="https://github.com/el-houfi-achraf?tab=repositories"><b>More footage in the archive ↗</b></a></p>
 
-**Software Engineer**  
-**EMSI - Marrakech, Morocco** 🇲🇦  
-**Specialization**: MIAGE  
-**Focus**: Computer Science & Networks
+## 🗓️ Tonight's schedule
+
+<sub>Every role, every classroom. Reruns not included.</sub>
+
+| Air date | Programme | Synopsis |
+|:--|:--|:--|
+| **08/2026 — now**<br><sub>🔴 NOW AIRING</sub> | **Software Engineer**<br>Intelcia Tech · Casablanca-Settat · full-time | Hired full-time after the internship; still working with the SFR client team on the Hermes project.<br><sub>`PostgreSQL` `Shell scripting`</sub> |
+| **02/2026 — 07/2026**<br><sub>SEASON PREMIERE</sub> | **Software Engineer (Internship)**<br>Intelcia Tech · Casablanca-Settat | Worked embedded with the SFR client team to deliver two major components of the Hermes project.<br><sub>`PostgreSQL` `Shell scripting`</sub> |
+| **07/2025 — 08/2025**<br><sub>LIVE SERIES</sub> | **Intern Developer**<br>Le Gestionnaire · Marrakech | Shipped **AtlasDocs**, a SaaS document-management platform used internally: owned front- and back-end features (JWT auth, e-mailed share links and notifications, Google Cloud Storage) and containerised the services with Docker for GCP.<br><sub>`Django` `DRF` `React` `PostgreSQL` `Docker` `GCP`</sub> |
+| **07/2024**<br><sub>LIVE SERIES</sub> | **Intern Developer**<br>Vigon Systems · Marrakech | Built **VGT**, an internal ticket-management tool for cross-team handoffs: data model, API and front-end from scratch, plus real-time chat and automated PDF reports.<br><sub>`Django` `Tailwind CSS` `MySQL`</sub> |
+| **07/2022**<br><sub>PILOT EPISODE</sub> | **Intern Developer**<br>Allianz Imasnaoune · Marrakech | Delivered an analytical dashboard for insurance contracts, turning messy CSV exports into clear, actionable visuals for agents.<br><sub>`Python` `Pandas` `Dash` `Tailwind CSS`</sub> |
+| **2023 — 2026**<br><sub>DOCUMENTARY</sub> | **Engineering cycle — CS & Networks (MIAGE)**<br>EMSI Marrakech | Systems, algorithms and distributed software, with student projects in AI, cloud and full-stack development. |
+| **2021 — 2023**<br><sub>DOCUMENTARY</sub> | **Preparatory cycle**<br>EMSI Marrakech | Foundational engineering: mathematics, physics, programming and electronics. |
+| **2019 — 2020**<br><sub>ORIGIN STORY</sub> | **Baccalaureate — Physical Sciences**<br>Nour El Khalil | Physical-sciences track focused on mathematics and physics. |
+
+## 📡 Five channels, 39 items in the box
+
+<sub>ACHRAF 2026 — Deluxe Edition. Hand-picked skills, each backed by code that actually shipped.</sub>
+
+<table>
+<tr>
+<td width="210" valign="top"><img src="https://img.shields.io/badge/CH%201-LANGUAGES-D8C63A?style=for-the-badge&labelColor=0A0A0F" alt="CH 1 · Languages" /><br /><sub><i>Eight languages, zero accents. Mostly.</i></sub></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Python-1A1712?style=for-the-badge&logo=python&logoColor=D8C63A" alt="Python" />
+<img src="https://img.shields.io/badge/Java-1A1712?style=for-the-badge&logo=openjdk&logoColor=D8C63A" alt="Java" />
+<img src="https://img.shields.io/badge/C%2B%2B-1A1712?style=for-the-badge&logo=cplusplus&logoColor=D8C63A" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-1A1712?style=for-the-badge&logo=javascript&logoColor=D8C63A" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-1A1712?style=for-the-badge&logo=typescript&logoColor=D8C63A" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Dart-1A1712?style=for-the-badge&logo=dart&logoColor=D8C63A" alt="Dart" />
+<img src="https://img.shields.io/badge/SQL-1A1712?style=for-the-badge" alt="SQL" />
+<img src="https://img.shields.io/badge/GLSL-1A1712?style=for-the-badge&logo=opengl&logoColor=D8C63A" alt="GLSL" />
+</td>
+</tr>
+<tr>
+<td width="210" valign="top"><img src="https://img.shields.io/badge/CH%202-FRAMEWORKS-3AC8CF?style=for-the-badge&labelColor=0A0A0F" alt="CH 2 · Frameworks" /><br /><sub><i>Pre-assembled, batteries sold separately.</i></sub></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Django-1A1712?style=for-the-badge&logo=django&logoColor=3AC8CF" alt="Django" />
+<img src="https://img.shields.io/badge/Spring%20Boot-1A1712?style=for-the-badge&logo=springboot&logoColor=3AC8CF" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-1A1712?style=for-the-badge&logo=react&logoColor=3AC8CF" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1A1712?style=for-the-badge&logo=nextdotjs&logoColor=3AC8CF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Flutter-1A1712?style=for-the-badge&logo=flutter&logoColor=3AC8CF" alt="Flutter" />
+<img src="https://img.shields.io/badge/FastAPI-1A1712?style=for-the-badge&logo=fastapi&logoColor=3AC8CF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-1A1712?style=for-the-badge&logo=nodedotjs&logoColor=3AC8CF" alt="Node.js" />
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-1A1712?style=for-the-badge&logo=threedotjs&logoColor=3AC8CF" alt="React Three Fiber" />
+<img src="https://img.shields.io/badge/Babylon.js-1A1712?style=for-the-badge&logo=babylondotjs&logoColor=3AC8CF" alt="Babylon.js" />
+</td>
+</tr>
+<tr>
+<td width="210" valign="top"><img src="https://img.shields.io/badge/CH%203-DATA%20%26%20ML-3FB855?style=for-the-badge&labelColor=0A0A0F" alt="CH 3 · Data & ML" /><br /><sub><i>Now with RAG! Models that cite their sources.</i></sub></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/PySpark-1A1712?style=for-the-badge&logo=apachespark&logoColor=3FB855" alt="PySpark" />
+<img src="https://img.shields.io/badge/Pandas-1A1712?style=for-the-badge&logo=pandas&logoColor=3FB855" alt="Pandas" />
+<img src="https://img.shields.io/badge/TensorFlow-1A1712?style=for-the-badge&logo=tensorflow&logoColor=3FB855" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/YOLOv8-1A1712?style=for-the-badge&logo=yolo&logoColor=3FB855" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/OpenCV-1A1712?style=for-the-badge&logo=opencv&logoColor=3FB855" alt="OpenCV" />
+<img src="https://img.shields.io/badge/RAG-1A1712?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-1A1712?style=for-the-badge" alt="LLMs" />
+</td>
+</tr>
+<tr>
+<td width="210" valign="top"><img src="https://img.shields.io/badge/CH%204-INFRA%20%26%20TOOLING-C73FC1?style=for-the-badge&labelColor=0A0A0F" alt="CH 4 · Infra & Tooling" /><br /><sub><i>Containerised, versioned, load-tested and spell-checked.</i></sub></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Docker-1A1712?style=for-the-badge&logo=docker&logoColor=C73FC1" alt="Docker" />
+<img src="https://img.shields.io/badge/GCP-1A1712?style=for-the-badge&logo=googlecloud&logoColor=C73FC1" alt="GCP" />
+<img src="https://img.shields.io/badge/Git-1A1712?style=for-the-badge&logo=git&logoColor=C73FC1" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1A1712?style=for-the-badge&logo=github&logoColor=C73FC1" alt="GitHub" />
+<img src="https://img.shields.io/badge/Shell%20scripting-1A1712?style=for-the-badge&logo=gnubash&logoColor=C73FC1" alt="Shell scripting" />
+<img src="https://img.shields.io/badge/Jira-1A1712?style=for-the-badge&logo=jira&logoColor=C73FC1" alt="Jira" />
+<img src="https://img.shields.io/badge/SonarQube-1A1712?style=for-the-badge&logo=sonarqubeserver&logoColor=C73FC1" alt="SonarQube" />
+<img src="https://img.shields.io/badge/Selenium-1A1712?style=for-the-badge&logo=selenium&logoColor=C73FC1" alt="Selenium" />
+<img src="https://img.shields.io/badge/JMeter-1A1712?style=for-the-badge&logo=apachejmeter&logoColor=C73FC1" alt="JMeter" />
+</td>
+</tr>
+<tr>
+<td width="210" valign="top"><img src="https://img.shields.io/badge/CH%205-DATABASES-D23A35?style=for-the-badge&labelColor=0A0A0F" alt="CH 5 · Databases" /><br /><sub><i>Tables, documents and the occasional existential JOIN.</i></sub></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Oracle-1A1712?style=for-the-badge" alt="Oracle" />
+<img src="https://img.shields.io/badge/MySQL-1A1712?style=for-the-badge&logo=mysql&logoColor=D23A35" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-1A1712?style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/PostgreSQL-1A1712?style=for-the-badge&logo=postgresql&logoColor=D23A35" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-1A1712?style=for-the-badge&logo=mongodb&logoColor=D23A35" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-1A1712?style=for-the-badge&logo=firebase&logoColor=D23A35" alt="Firebase" />
+</td>
+</tr>
+</table>
+
+## 🏆 Awards & certifications
+
+<sub>Seven of them. The trophy cabinet is a browser tab.</sub>
+
+| ★ | Coursera certificate | |
+|:-:|:--|:-:|
+| 01 | Software Design and Project Management | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/MKU9MQ5NXM6V) |
+| 02 | Virtual Networks in Azure | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/38KR5AE93V6W) |
+| 03 | Introduction to Containers w/ Docker, Kubernetes & OpenShift | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/368YH98MG1GN) |
+| 04 | AWS Cloud Technical Essentials | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/GXDVCBYN89JS) |
+| 05 | The Unix Workbench | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/SJ32Y9ECYTC2) |
+| 06 | Introduction to Cloud Computing | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/VPA8ZCZGSKEL) |
+| 07 | Introduction to Machine Learning with Python | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/8ICKTU0QN93I) |
+
+## 📊 Ratings
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=el-houfi-achraf&hide_border=true&border_radius=10&background=0A0A0F&stroke=2A2620&ring=E8402C&fire=FFB000&currStreakNum=EFE8DA&sideNums=EFE8DA&currStreakLabel=FFB000&sideLabels=8EF0C6&dates=9A9284" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/el-houfi-achraf/el-houfi-achraf/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/el-houfi-achraf/el-houfi-achraf/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/el-houfi-achraf/el-houfi-achraf/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" />
+  </picture>
+</p>
+
+## 🎧 Audio tracks & off air
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Audio tracks** <sub>· subtitles on request</sub>
+
+| | Language | Level |
+|:-:|:--|:--|
+| `AR` | Arabic | Native |
+| `FR` | French | Fluent |
+| `EN` | English | Intermediate |
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-###  **WHAT I DO?**
+**Off air** <sub>· what resets the signal</sub>
 
-**Building scalable web applications**  
- **Exploring AI/ML technologies**  
- **Data engineering solutions**  
- **DevOps & Cloud computing**
-
- **3+ years development experience**  
- **Languages**: Arabic, French, English
+- ⚽ **Football** — midfielder, left foot
+- 🏀 **Basketball** — weekend shooter
+- ✈️ **Travel** — 13 cities and counting
+- 🎮 **Gaming** — story-driven RPGs
+- 🎶 **Music** — hip-hop and lo-fi
+- 📚 **Reading** — mostly non-fiction
+- 🛠️ **Tech** — always tinkering
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### **BEYOND CODE**
-
-**Gaming Enthusiast** •  **Tech Explorer** 
-
-</div>
-
----
-
-##  Professional Experience
-
-<details>
-<summary><b> Full-Stack Developer Intern @ Le Gestionnaire (July-August 2025)</b></summary>
-
-###  AtlasDocs SaaS Platform
-
-> _Commercial document management and collaboration platform_
-
-** Key Achievements:**
-
--  Improved document management efficiency by **85%** through automation
--  Implemented JWT authentication & email integration
--  Built comprehensive data visualization dashboard
--  Integrated Google Cloud Storage for scalable file management
-
-** Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud` `Git`
-
-</details>
-
-<details>
-<summary><b> Back-End Developer Intern @ Vigon Systems (July 2024)</b></summary>
-
-###  VGT Internal Ticket Management
-
-> _Internal IT ticket management solution_
-
-** Key Achievements:**
-
--  Optimized ticket tracking efficiency by **70%**
--  Integrated real-time chat functionality
--  Automated PDF report generation
--  Designed robust MVC/MVT architecture
-
-** Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
-
-</details>
-
-<details>
-<summary><b> IT Developer Intern @ Allianz Imasnaoune (July 2022)</b></summary>
-
-###  Insurance Analytics Dashboard
-
-> _Dynamic insurance contract data visualization_
-
-** Key Achievements:**
-
--  Created interactive data visualization dashboard
--  Implemented advanced data analysis workflows
--  Built responsive web application interface
-
-** Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
-
-</details>
-
----
-
-##  Featured Projects
-
-###  **AtlasDocs SaaS Platform** - _Commercial Document Management_
-
-> **Le Gestionnaire Internship (July-August 2025)**
-
-** Project Overview:**
-
--  Commercial document management and collaboration platform
--  JWT authentication with email integration for sharing links and notifications
--  85% improvement in document management efficiency through automation
--  Google Cloud Storage integration for scalable file management
-
-** Tech Stack:** `Django` `REST Framework` `PostgreSQL` `Docker` `React` `Google Cloud Storage` `Git`
-
----
-
-###  **VGT Ticket Management System** - _Internal IT Solution_
-
-> **Vigon Systems Internship (July 2024)**
-
-** Project Overview:**
-
--  Internal solution for IT ticket management with MVC/MVT architecture
--  Real-time chat integration for improved communication
--  Automated PDF report generation
--  70% optimization in ticket tracking efficiency
-
-** Tech Stack:** `Django` `Tailwind CSS` `MySQL` `Git` `Jira`
-
----
-
-### **Insurance Analytics Dashboard** - _Data Visualization Platform_
-
-> **Allianz Imasnaoune Internship (July 2022)**
-
-** Project Overview:**
-
--  Dynamic insurance contract data visualization
--  Interactive dashboard with advanced data analysis workflows
--  Responsive web application for data insights
--  Comprehensive analytics for insurance contract management
-
-** Tech Stack:** `Python` `Pandas` `NumPy` `MySQL` `Dash` `Tailwind CSS`
-
----
-
-###  **Pharmacy Locator Web App** - _Academic Project_
-
-> **EMSI Academic Project**
-
-** Project Overview:**
-
--  Web application for locating pharmacies across Morocco
--  Dynamic charts integration for decision-making support
--  Data collection from 3 internal departments
--  Enhanced decision-making capabilities for agency managers
-
-** Tech Stack:** `Spring Boot` `Angular`
-
----
-
-###  **Employee Facial Recognition System** - _AI-Powered Management_
-
-> **EMSI Academic Project**
-
-** Project Overview:**
-
--  Employee management system with facial recognition
--  Integrated chat and video call system
--  60% improvement in communication reactivity
--  Enhanced patient-doctor communication features
-
-** Tech Stack:** `Python` `OpenCV` `TensorFlow`
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### Frontend Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=el-houfi-achraf&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=el-houfi-achraf&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-##  Achievements & Certifications
-
-<div align="center">
-
-###  Coursera Certifications
-
--  **Software Design and Project Management**
--  **Virtual Networks in Azure**
--  **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
--  **AWS Cloud Technical Essentials**
--  **The Unix Workbench**
--  **Introduction to Cloud Computing**
--  **Introduction to Machine Learning with Python**
-
-</div>
-
----
-
-##  Fun Facts
-
-<img align="right" alt="Fun" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
--  I speak **3 languages**: Arabic (native), French (fluent), English (intermediate)
--  Gaming enthusiast & sports lover
--  Based in beautiful **Marrakech, Morocco**
--  Always exploring new technologies and frameworks
--  Mobile: **+212 611-945026**
--  Fun fact: I love combining AI with real-world applications!
-
----
-
-##  Let's Connect!
-
-<div align="center">
-
-###  Open for collaboration on:
-
--  **Full-Stack Web Applications**
--  **AI/ML Projects**
--  **Cloud-Native Applications**
-
-###  Reach out to me:
-
-[![Email](https://img.shields.io/badge/📧_elhoufiashraf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhoufiashraf@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-el-houfi-136b4230b/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://ashraf-portfolio-gray.vercel.app/)
-[![Phone](https://img.shields.io/badge/📱_+212_611_945026-25D366?style=for-the-badge&logoColor=white)](tel:+212611945026)
-
-</div>
-
----
-
-<div align="center">
-
-###  Thanks for visiting my profile!
-
-**If you like my work, consider giving it a !**
-
----
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
-</div>
-
-_"Code is like humor. When you have to explain it, it's bad." - Cory House_
-
-</div>
+## ☎️ Operators are standing by
+
+The operator is me. I reply within 48 hours, faster if you mention the tapes.
+
+- ✉️ **Write to the studio:** [elhoufiashraf@gmail.com](mailto:elhoufiashraf@gmail.com)
+- 💼 **LinkedIn:** [achraf-el-houfi](https://www.linkedin.com/in/achraf-el-houfi-136b4230b/)
+- 📸 **Instagram:** [@ashraf_elhoufi](https://www.instagram.com/ashraf_elhoufi/)
+- 📺 **Portfolio:** [achraf-el-houfi.vercel.app](https://achraf-el-houfi.vercel.app/)
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=1400&color=8EF0C6&background=0A0A0F&center=true&vCenter=true&width=480&height=46&lines=END+OF+TRANSMISSION;THANKS+FOR+WATCHING;BE+KIND%2C+REWIND." alt="End of transmission. Thanks for watching. Be kind, rewind." />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=el-houfi-achraf&label=VIEWERS%20TUNED%20IN&color=E8402C&style=for-the-badge" alt="Profile views" />
+  <br />
+  <sub>If a tape made you smile, a ⭐ on any repo is the best review.</sub>
+</p>

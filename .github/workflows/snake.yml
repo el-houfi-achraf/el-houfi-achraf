@@ -1,0 +1,48 @@
+# Draws the contribution snake at the bottom of the profile README and
+# publishes it to the `output` branch of this repository:
+#   https://raw.githubusercontent.com/el-houfi-achraf/el-houfi-achraf/output/github-snake.svg
+#   https://raw.githubusercontent.com/el-houfi-achraf/el-houfi-achraf/output/github-snake-dark.svg
+# Colours follow the portfolio: REC red / amber snake, phosphor-green dots.
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "41 2 * * *" # every day at 02:41 UTC
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate the snake from the contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#e8402c&color_dots=#ebedf0,#c6eedc,#86d9b5,#3aa57c,#1d6e50
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffb000&color_dots=#161b22,#173b30,#2a6b55,#55b08e,#8ef0c6
+
+      - name: Publish to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          out="$(mktemp -d)"
+          cp -R dist/. "$out"
+          cd "$out"
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Update contribution snake"
+          git push -q --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
